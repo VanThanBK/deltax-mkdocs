@@ -1,4 +1,4 @@
-# Delta X V2 Specifications
+# Delta X 2 Specifications
 
 ![deltax2](https://raw.githubusercontent.com/VanThanBK/deltax-mkdocs/master/docs/images/deltax2.png)
 
